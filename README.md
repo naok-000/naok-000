@@ -3,7 +3,7 @@
 
 <!-- stats -->
 [![](https://github-readme-stats.vercel.app/api?username=naok-000&show_icons=true&theme=catppuccin_mocha&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&show_icons=true&theme=catppuccin_mocha&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&layout=donut&show_icons=true&theme=catppuccin_mocha&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi there 👋
 
 # Welcome to My GitHub Profile! 👋
