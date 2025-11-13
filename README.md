@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=naok-000&style=flat-the-badge)
+![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
 
 ## Hi there 👋
 
