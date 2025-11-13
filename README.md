@@ -1,23 +1,39 @@
+<!-- github contribution grid snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ## Hi there 👋
+I'm a Computer Science student at **Nagoya University**, Japan.
+My interests lie in low-level software platforms and web technologies.
 
-# Welcome to My GitHub Profile! 👋
-
-Hi there! I'm a student at **Nagoya University** 🇯🇵, currently diving into the fascinating world of **Web Development**. I'm passionate about learning new technologies and building creative projects.
-
-## About Me
-- 🎓 **University**: Nagoya University  
-- 💻 **Interest**: Web Development, Frontend & Backend Technologies  
-- 🌱 **Currently Learning**: HTML, CSS, JavaScript, and modern web frameworks  
-- 🌟 **Goal**: To become a skilled web developer who can create impactful digital experiences.
+- 🔭 **Research:** Software Platforms, Embedded Systems (MCUs), and RTOS.
+- 💼 **Work:** Part-time Web Engineer / Data Scientist.
 
 ## Skills
-- Beginner in **HTML** and **CSS**
-- Learning **JavaScript** and exploring **modern web development tools**
+![](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,fastapi,flask,nodejs,react,nextjs,vue,nuxtjs,git,github,docker,linux,ubuntu,aws,azure,neovim,)
+
+
+
+## GitHub Stats
+
+<!-- profile visitor count -->
+![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
+<!-- stats -->
+[![](https://github-readme-stats.vercel.app/api?username=naok-000&show_icons=true&theme=transparent&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&layout=compact&show_icons=true&theme=transparent&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naok-000&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naok-000&theme=transparent&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naok-000&theme=transparent&exclude=)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naok-000&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naok-000&theme=transparent&utcOffset=9)
+
 
 ## Connect with Me
-Feel free to reach out or collaborate on projects!  
-📧 **Email**: 
-🌐 **Portfolio**: 
+Please connect with me via X (formerly Twitter) or LinkedIn!
 
 <!--
 **naok-000/naok-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
