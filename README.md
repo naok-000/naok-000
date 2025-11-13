@@ -3,7 +3,7 @@
 
 <!-- stats -->
 [![](https://github-readme-stats.vercel.app/api?username=naok-000&show_icons=true&theme=default&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&layout=donut&show_icons=true&theme=default&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&layout=compact&show_icons=true&theme=default&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naok-000&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naok-000&theme=default&exclude=)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naok-000&theme=default&exclude=)
