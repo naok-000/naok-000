@@ -1,7 +1,7 @@
+<!-- profile visitor count -->
+![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
 
 ## Hi there 👋
-
-# Welcome to My GitHub Profile! 👋
 I'm a Computer Science student at **Nagoya University**, Japan.
 My interests lie in low-level software platforms and web technologies.
 
@@ -9,18 +9,11 @@ My interests lie in low-level software platforms and web technologies.
 - 💼 **Work:** Part-time Web Engineer / Data Scientist.
 
 ## Skills
-![](https://skillicons.dev/icons?i=aws,azure,c,cpp,css,docker,fastapi,flask,git,github,html,js,linux,neovim,nextjs,nodejs,nuxtjs,py,react,ts,ubuntu,vue,)
+![](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,fastapi,flask,nodejs,react,nextjs,vue,nuxtjs,git,github,docker,linux,ubuntu,aws,azure,neovim,)
 
 
 
-## Connect with Me
-Feel free to reach out or collaborate on projects!  
-📧 **Email**: 
-🌐 **Portfolio**: 
-
-
-<!-- profile visitor count -->
-![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
+## GitHub Stats
 
 <!-- github contribution grid snake -->
 <picture>
@@ -39,8 +32,8 @@ Feel free to reach out or collaborate on projects!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naok-000&theme=default&utcOffset=9)
 
 
-
-
+## Connect with Me
+Please connect with me via X (formerly Twitter) or LinkedIn!
 
 <!--
 **naok-000/naok-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
