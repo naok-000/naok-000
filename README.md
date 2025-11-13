@@ -1,5 +1,10 @@
-<!-- profile visitor count -->
-![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
+<!-- github contribution grid snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ## Hi there 👋
 I'm a Computer Science student at **Nagoya University**, Japan.
@@ -15,13 +20,8 @@ My interests lie in low-level software platforms and web technologies.
 
 ## GitHub Stats
 
-<!-- github contribution grid snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/naok-000/naok-000/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
+<!-- profile visitor count -->
+![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
 <!-- stats -->
 [![](https://github-readme-stats.vercel.app/api?username=naok-000&show_icons=true&theme=default&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&layout=compact&show_icons=true&theme=default&exclude_repo=lecture-ai-engineering,lecture-ai-engineering-day3,udemy-flutter)](https://github.com/anuraghazra/github-readme-stats)
