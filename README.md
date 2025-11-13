@@ -3,7 +3,7 @@
 
 <!-- stats -->
 [![](https://github-readme-stats.vercel.app/api?username=naok-000&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&show_icons=true&theme=catppuccin_mocha&hide=JupyterNotebookCMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=naok-000&show_icons=true&theme=catppuccin_mocha&hide=jupyter%20notebook,CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi there 👋
 
 # Welcome to My GitHub Profile! 👋
