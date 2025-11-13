@@ -1,4 +1,8 @@
+<!-- profile visitor count -->
 ![](https://komarev.com/ghpvc/?username=naok-000&style=for-the-badge)
+
+<!-- stats -->
+[![](https://github-readme-stats.vercel.app/api?username=naok-000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there 👋
 
