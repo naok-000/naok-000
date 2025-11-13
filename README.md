@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?naok-000&style=flat-the-badge)
+
 ## Hi there 👋
 
 # Welcome to My GitHub Profile! 👋
